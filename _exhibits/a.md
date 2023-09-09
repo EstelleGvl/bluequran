@@ -36,9 +36,6 @@ The apparent simplicity of the Kufic calligraphy, the harmonious composition, an
 
 
 
-
-
-
 [comment]: ---
 
 [comment]: ### Notes
