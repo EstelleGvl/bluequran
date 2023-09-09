@@ -18,11 +18,11 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+title:            'Mapping the Blue Quran'
+description:      'Visualising the Blue Quran'
+url:              'https://estellegvl.github.io'
+baseurl:          ''
+copyright:        'Estelle Guéville, 2023'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -52,7 +52,6 @@ kramdown:
  smart_quotes:   lsquo,rsquo,ldquo,rdquo
  enable_coderay: false
 
-
 # --------------------------------------------------------------
 # COLLECTION SETTINGS
 # --------------------------------------------------------------
@@ -63,15 +62,15 @@ kramdown:
 # ~> https://jekyllrb.com/docs/collections/
 
 collections:
-  exhibits:
+   exhibits:
     output: true
-  qatar: # name of collection
+   bluequran: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'bluequran.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/bluequran' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -85,15 +84,21 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      bluequran:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
+          - localisation
+          - country
+          - city
+          - city
+          - inventory
+          - juz
+          - sura_number
+          - sura_title_arabic	
+          - sura_title_english	
+          - verse_recto	
+          - verse_verso	
+          - bibliography
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -107,8 +112,6 @@ menu:
     sub:
       - label: 'Wax'
         link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
@@ -132,11 +135,9 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/EstelleGvl/estellegvl.github.io-bluequr-an'
     - label: 'Credits'
       link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
   logos:
     - img: '/img/logo.png'
 
