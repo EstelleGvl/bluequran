@@ -21,7 +21,7 @@
 title:            'Mapping the Blue Quran'
 description:      'Visualising the Blue Quran'
 url:              'https://estellegvl.github.io'
-baseurl:          'bluequran'
+#baseurl:          'bluequran'
 copyright:        'Estelle Guéville, 2023'
 logo:             '/assets/logo.png'
 
@@ -110,7 +110,7 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
+      - label: "The Blue Qur'an"
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
@@ -120,8 +120,8 @@ menu:
         link: '/exhibits/a/'
       - label: 'Inline Image References'
         link: '/exhibits/b/'
-  - label: 'Browse'
-    link: '/collection/'
+#  - label: 'Browse'
+#    link: '/collection/'
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
