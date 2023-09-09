@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: bluequran
-  pid: obj10
+  pid: f020
   y: 25%
   height: '500px'
 ---

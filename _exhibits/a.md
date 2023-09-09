@@ -1,29 +1,48 @@
 ---
 layout: exhibit
-title: 'Exhibit A: Inline Parallax Image'
-author: Mihr 'Ali
-publish_date: 2018-11-15
+title: "What is the Blue Qur'an?"
+author: 
+publish_date: 2023-09-09
 permalink: /exhibits/a/
 ---
 
-Ut eleifend lacus at erat efficitur bibendum. Ut laoreet elit nec dolor molestie finibus. Vivamus justo risus, scelerisque nec dolor ut, pretium fringilla purus. Nam nisl erat, tristique ac libero vitae, bibendum pellentesque nulla. Praesent accumsan ut mauris ut euismod. Etiam mattis a justo eget blandit. Aliquam vitae magna eget nisi suscipit finibus id sit amet nulla.[^1]
+## The Blue Qur'an
+The Blue Qur'an is a unique manuscript of the Quran that was created in North Africa during the 9th or 10th century. The manuscripts was first described in 693 H/1292-1293 in the inventory of the library of Sidi Uqba Mosque in Kairouan. The inventory refers to the Qur’an as follow: "in seven volumes of great writing in gold Kufic script on parchment blue-black format. The number of verses is written in silver, wrapped in embossed wood lined with silk".
 
-Nam velit leo, mattis ac dui non, vulputate porttitor sapien. Praesent in aliquet dui. Nulla facilisi. Maecenas nulla ex, facilisis non aliquet ac, ultrices eu sem. Sed vel aliquet urna. Mauris quis ex at lectus iaculis elementum id id massa. Integer luctus nulla vel tellus rutrum, ac pulvinar erat finibus. Aliquam erat volutpat. Pellentesque vel velit sit amet mauris dignissim feugiat.
+This manuscript is renowned for its unique blue pages adorned with golden lettering, as well as its intricate geometric and floral patterns. It's worth noting that there may have been other blue Qur'ans produced during the early centuries of Islam. Historical records mention that the Abbasid caliph al-Ma'mun commissioned one such manuscript. This tradition continued in North Africa until the fifteenth century, albeit on paper rather than parchment.
+
+One example of this tradition is a folio featuring reddish-brown paper with silver and gold calligraphy, preserved in the National Library of Paris (BNF). This particular folio dates back to the reign of the Hafsid sovereign Abu Faris 'Abd al-' Aziz al-Mutawakkil (1394-1434). Another Qur'an from the same period, housed in the National Library in Rabat, is written in a cursive Maghribi script with silver ink on green paper.
+
+{% include parallax_image.html collection='bluequran' pid='f046' y='50%' %}
 
 
-{% include parallax_image.html collection='qatar' pid='obj12' y='50%' %}
+## The Script and Format
+
+Each page of the manuscript features fifteen lines of gold Kufic script on blue vellum, devoid of vowels and diacritical marks which makes reading the text more challenging. To demarcate the end of each verse, a decorative floral pattern illuminated in oxidized silver is used. Additionally, every set of five verses is highlighted with an illuminated pattern in the margin. The manuscript follows an oblong format, known as the "Italian" format, which was typical for ancient productions in the western part of the Muslim world. This format was adapted to accommodate the Kufic style, where some letters occasionally appeared stretched and out of proportion compared to more compact letters. This practice, known as "mashq," was popular between the ninth and tenth centuries.
+
+Historically, religious works were often copied onto parchment made from goat or sheepskin until the twelfth century when paper became the norm. However, vellum made from the skin of a stillborn calf, treated and dried under tension, was reserved for prestigious works like the Blue Qur'an. While parchment dyed in yellow or orange with saffron dye is more common, the use of blue indigo dye in this manuscript appears to be unique. The concept of using colored dyes may have been influenced by the Byzantine imperial codex, which employed imperial purple color derived from the murex.
+
+The apparent simplicity of the Kufic calligraphy, the harmonious composition, and the striking contrast between the gold letters and the deep blue background make this manuscript one of the most extraordinary creations of its kind.
 
 
-Duis commodo ligula libero, a pharetra ligula posuere sit amet. Sed ipsum dolor, elementum eget nisl eget, sagittis vestibulum augue. Donec tincidunt mauris et nunc sagittis, nec consectetur lorem tristique. Nulla tincidunt magna ut ullamcorper consectetur. Nulla mi urna, feugiat sed massa non, ullamcorper efficitur dolor.[^2] Sed luctus, massa eget pharetra posuere, nibh sem eleifend lectus, lobortis molestie ante libero non metus. Aenean et est sit amet est pulvinar convallis vel non tortor. Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+{% include inline_image.html collection='bluequran' pid='f056' %}
 
-Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor. Quisque viverra sem a orci aliquet sodales. Aliquam commodo eros at sagittis vehicula. Quisque in massa turpis. Aliquam aliquam consectetur magna non dignissim. Sed fringilla a ligula vitae molestie.
 
-Duis finibus leo non velit viverra tincidunt. Fusce efficitur laoreet convallis. Sed sem felis, porttitor sit amet volutpat ac, consequat quis lectus. Donec elementum dignissim vehicula. Pellentesque fringilla ex bibendum, ornare sapien a, mollis neque. Duis faucibus diam vitae faucibus feugiat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra elit sem, et euismod massa mattis ut. Phasellus maximus ipsum in nulla sollicitudin viverra. Morbi semper lectus quis dolor cursus, ut convallis lacus venenatis. Pellentesque lorem mauris, malesuada a fringilla et, iaculis sodales metus. Suspendisse finibus purus ut sem commodo feugiat.
 
----
 
-### Notes
+[comment]: XXX[^1]
 
-[^1]: Integer eu augue elementum, venenatis nisi vitae, ultrices magna. Nunc accumsan sem quis tristique iaculis. Quisque sed lorem tortor.
 
-[^2]: Nunc semper commodo fringilla. Proin eget metus eget felis faucibus aliquet. Cras ultrices turpis id nibh cursus fringilla. Aenean nec magna turpis. Suspendisse egestas tellus iaculis ante pharetra imperdiet ac at odio.
+
+
+
+
+
+
+[comment]: ---
+
+[comment]: ### Notes
+
+[comment]: [^1]: 
+
+[comment]: [^2]: 

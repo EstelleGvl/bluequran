@@ -18,12 +18,12 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Mapping the Blue Quran'
-description:      'Visualising the Blue Quran'
+title:            "The Blue Qur'an"
+description:      ''
 url:              'https://estellegvl.github.io'
 baseurl:          '/bluequran'
 copyright:        'Estelle Guéville, 2023'
-logo:             '/assets/logo.png'
+#logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -114,12 +114,16 @@ menu:
         link: '/about/'
       - label: 'Credits'
         link: '/credits/'
+      - label: 'Bibliography'
+        link: '/bibliography/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: "What is the Blue Qur'an?"
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: "Where is the Blue Qur'an?"
         link: '/exhibits/b/'
+  - label: "Mirador"
+    link: "/mirador/"
 #  - label: 'Browse'
 #    link: '/collection/'
   - label: 'Search'
@@ -138,7 +142,7 @@ footer:
       link: 'https://github.com/EstelleGvl/estellegvl.github.io-bluequr-an'
     - label: 'Credits'
       link: '/credits'
-  logos:
-    - img: '/img/logo.png'
+#  logos:
+#    - img: '/img/logo.png'
 
 # FIN
