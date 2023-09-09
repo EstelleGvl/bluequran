@@ -7,7 +7,7 @@ permalink: /exhibits/a/
 ---
 
 ## The Blue Qur'an
-The Blue Qur'an is a unique manuscript of the Quran that was created in North Africa during the 9th or 10th century. The manuscripts was first described in 693 H/1292-1293 in the inventory of the library of Sidi Uqba Mosque in Kairouan. The inventory refers to the Qur’an as follow: "in seven volumes of great writing in gold Kufic script on parchment blue-black format. The number of verses is written in silver, wrapped in embossed wood lined with silk".
+The Blue Qur'an is a unique manuscript of the Qur'an that was created in North Africa during the 9th or 10th century. The manuscripts was first described in 693 H/1292-1293 in the inventory of the library of Sidi Uqba Mosque in Kairouan. The inventory refers to the Qur’an as follow: "in seven volumes of great writing in gold Kufic script on parchment blue-black format. The number of verses is written in silver, wrapped in embossed wood lined with silk".
 
 This manuscript is renowned for its unique blue pages adorned with golden lettering, as well as its intricate geometric and floral patterns. It's worth noting that there may have been other blue Qur'ans produced during the early centuries of Islam. Historical records mention that the Abbasid caliph al-Ma'mun commissioned one such manuscript. This tradition continued in North Africa until the fifteenth century, albeit on paper rather than parchment.
 
