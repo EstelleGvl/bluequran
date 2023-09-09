@@ -2,16 +2,14 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
+  collection: bluequran
   pid: obj10
   y: 25%
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
-
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+The Blue Qur'an is a unique manuscript of the Quran that was created in North Africa during the 9th or 10th century. It is known for its distinctive blue pages with gold lettering, and for its intricate geometric and floral designs. However, the manuscript has been scattered across multiple institutions and private collections around the world, making it difficult to study and appreciate as a cohesive work of art.
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='bluequran' %}
