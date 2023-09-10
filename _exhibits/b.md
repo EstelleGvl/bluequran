@@ -6,7 +6,7 @@ publish_date: 2023-09-09
 permalink: /exhibits/b/
 ---
 
-## Where was created the the Blue Qur'an?
+## Where was the the Blue Qur'an created?
 The Blue Qur'an is a unique Qur'anic manuscript that was created in South Europe or North Africa and is thought to have contained 600 parchment folios. Its exact place of creation has been a topic of debate, with suggestions including Tunisia, Spain, or Sicily, all of which are in the western part of the Islamic world.
 
 The script used in the Blue Qur'an features gold lettering on a blue background, similar to inscriptions found on notable monuments like the Great Mosque of Cordoba. However, when examining the paleographic characteristics of the letters, it leans towards a Tunisian origin, perhaps during the Aghlabid dynasty (800-909) or at the outset of the Fatimids while they were still based in North Africa before their relocation to Egypt (909-950). 
