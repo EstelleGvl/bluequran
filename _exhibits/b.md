@@ -20,9 +20,9 @@ Attributing its origin to Andalusia in Spain is less convincing, as there are li
 
 ## Where is it in 2023?
 
-The majority of the manuscripts of this period have been dismembered at some point or another in history and the Blue Qur'an is no exception. It is now kept in its great majority in Tunisia, except for the first four juz, which are scattered in museums and private collections around the world. Individual leaves of the blue Qur'an have appeared on the art market already the early twentieth century. 
+The majority of the manuscripts of this period have been dismembered at some point or another in history and the Blue Qur'an is no exception. It is now kept in its great majority in Tunisia, except for the first four juz, which are scattered in museums and private collections around the world. Individual leaves of the blue Qur'an have appeared on the art market since the early twentieth century. 
 
-The biggest section of the manuscript is in the National Institute of Art and Archaeology in Tunis, while detached leaves or fragments are found in the Museum of Fine Arts in Boston; the Harvard University Art Museums, the Metropolitan Museum of Art, the Chester Beatty Library in Dublin, the Los Angeles County Museums of Arts, the Institut du Monde Arabe in Paris, and in various private collections including the Aga Khan Museum Collection in Toronto, the David collection in Copenhagen, and the Nasser D. Khalili Collection in London. 
+The biggest section of the manuscript is in the National Institute of Art and Archaeology in Tunis, while detached leaves or fragments are found in the Museum of Fine Arts in Boston; the Harvard University Art Museums, the Metropolitan Museum of Art, the Chester Beatty Library in Dublin, the Los Angeles County Museums of Arts, the Institut du Monde Arabe in Paris, the Louvre Abu Dhabi and in various private collections including the Aga Khan Museum Collection in Toronto, the David collection in Copenhagen, and the Nasser D. Khalili Collection in London. 
 
 Overall, over fifty folios of this Qur'an are now dispersed, in public and private museums worldwide: these all belong to the first seventh of the Qur'an. 
 
