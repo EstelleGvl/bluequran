@@ -2,7 +2,7 @@
 layout: exhibit
 title: "What is the Blue Qur'an?"
 author: 
-publish_date: 2023-09-09
+publish_date: 2023-011-09
 permalink: /exhibits/a/
 ---
 

@@ -2,7 +2,7 @@
 layout: exhibit
 title: "Mapping the Blue Qur'an"
 author: 
-publish_date: 2023-09-09
+publish_date: 2023-11-09
 permalink: /exhibits/b/
 ---
 
