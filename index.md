@@ -15,6 +15,3 @@ This manuscript is renowned for its unique blue pages adorned with golden letter
 The Blue Qur'an is a unique Quranic manuscript which is thought to have contained 600 parchment folios. Its exact place of creation has been a topic of debate, with suggestions including Tunisia, Spain, or Sicily, all of which are in the western part of the Islamic world. The manuscript has been dismembered at some point in history and dispersed around the world. It is now kept in its great majority in Tunisia, except for the first four juz, which are scattered in museums and private collections around the world.
 
 This website aims to gather all the folios identified to date. Do not hesitate to explore this collection and the history of this fascinating object.
-
-### Browse the Collection
-{% include collection_gallery.html facet_by='object_type' collection='bluequran' %}
