@@ -122,10 +122,12 @@ menu:
         link: '/exhibits/a/'
       - label: "Where is the Blue Qur'an?"
         link: '/exhibits/b/'
-  - label: "Mirador"
-    link: "/mirador/"
   - label: 'Browse'
-    link: '/collection/'
+    sub:
+      - label: "Browse the Collection"
+      link: '/collection/'
+      - label: "Mirador Viewer"
+      link: "/mirador/"
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
