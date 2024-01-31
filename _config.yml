@@ -125,9 +125,9 @@ menu:
   - label: 'Browse'
     sub:
       - label: "Browse the Collection"
-      link: '/collection/'
+        link: '/collection/'
       - label: "Mirador Viewer"
-      link: "/mirador/"
+        link: "/mirador/"
   - label: 'Search'
     link: '/search/'
   - label: 'Reuse'
