@@ -122,6 +122,8 @@ menu:
         link: '/exhibits/a/'
       - label: "Where is the Blue Qur'an?"
         link: '/exhibits/b/'
+      - label: "The Blue Qur'an on the Market"
+        link: '/exhibits/c/'
   - label: 'Browse'
     sub:
       - label: "Browse the Collection"
