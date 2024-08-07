@@ -41,7 +41,7 @@ permalink: /bibliography/
 - M. Stevens and N. Butler (eds), Los Angeles County Museum of Art (London: Thames & Hudson, 2003)
 - Sotheby's 12 October 2004, lot 1
 - M. Fraser and W. Kwiatkowski, Ink and Gold: islamic Calligraphy (London: Sam Fogg, 2006) 
-- Sotheby's 2006, lot 3
+- Sotheby's 11 October 2006, lot 3
 - D. Roxburgh, Writing the Word of God: Calligraphy and the Qur'an (Houston: The Museum of Fine Arts, 2007)
 - Sotheby's, 24 October 2007, lot 7 
 - P. Jodidio, Museum of Islamic Art: Doha, Qatar (Munich: Prestel, 2008)
