@@ -6,13 +6,15 @@ publish_date: 2024-07-22
 permalink: /exhibits/b/
 ---
 
-## XXX
+## Evolution of Auction Prices over Time
 XXX
 
-{% include parallax_image.html collection='bluequran' pid='f053' y='50%' %}
+<a href="{{ '/img/Auction_SellingPrices.png' | absolute_url }}">
+  <img src="{{ '/img/Auction_SellingPrices.png' | absolute_url }}" alt="Auction vs Selling Prices" style="zoom:17%;"/>
+</a> 
 
 
-## XXX
+## Evolution of Auction Prices over Time Adjusted for Inflation
 
 XXX
 
