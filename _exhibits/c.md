@@ -31,6 +31,9 @@ XXX
 
 ## Patterns and Influences
 
+<a href="{{ '/img/price_diff.png' | absolute_url }}">
+  <img src="{{ '/img/price_diff.png' | absolute_url }}" alt="Auction vs Selling Prices" style="zoom:100%;"/>
+</a> 
 
 [comment]: XXX[^1]
 
