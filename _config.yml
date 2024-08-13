@@ -116,7 +116,7 @@ menu:
         link: '/bibliography/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Exhibits'
+  - label: "The Blue Qur'an in Context"
     sub:
       - label: "What is the Blue Qur'an?"
         link: '/exhibits/a/'
