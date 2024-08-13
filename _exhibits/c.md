@@ -21,7 +21,7 @@ XXX
   <img src="{{ '/img/Auction_SellingPrices_infl.png' | absolute_url }}" alt="Auction vs Selling Prices Adjusted for Inflation" style="zoom:100%;"/>
 </a> 
 
-
+## Patterns and Influences
 
 
 [comment]: XXX[^1]
