@@ -13,20 +13,21 @@ XXX
   <img src="{{ '/img/Auction_SellingPrices.png' | absolute_url }}" alt="Auction vs Selling Prices" style="zoom:100%;"/>
 </a> 
 
-<a href="{{ '/img/figure_2.png' | absolute_url }}">
-  <img src="{{ '/img/figure_2.png' | absolute_url }}" alt="Auction vs Selling Prices" style="zoom:100%;"/>
+<a href="{{ '/img/Figure_2.png' | absolute_url }}">
+  <img src="{{ '/img/Figure_2.png' | absolute_url }}" alt="Auction vs Selling Prices" style="zoom:100%;"/>
 </a> 
 
 
 ## Evolution of Auction Prices over Time Adjusted for Inflation
 
 XXX
-<a href="{{ '/img/figure_1.png' | absolute_url }}">
-  <img src="{{ '/img/figure_1.png' | absolute_url }}" alt="Auction vs Selling Prices Adjusted for Inflation" style="zoom:100%;"/>
-</a> 
 
 <a href="{{ '/img/Auction_SellingPrices.png' | absolute_url }}">
   <img src="{{ '/img/Auction_SellingPrices.png' | absolute_url }}" alt="Auction vs Selling Prices" style="zoom:100%;"/>
+</a> 
+
+<a href="{{ '/img/Figure_1.png' | absolute_url }}">
+  <img src="{{ '/img/Figure_1.png' | absolute_url }}" alt="Auction vs Selling Prices Adjusted for Inflation" style="zoom:100%;"/>
 </a> 
 
 ## Patterns and Influences
