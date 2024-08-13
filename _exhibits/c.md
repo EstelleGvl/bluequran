@@ -3,7 +3,7 @@ layout: exhibit
 title: "The Blue Qur'an on the Market"
 author: 
 publish_date: 2024-07-22
-permalink: /exhibits/b/
+permalink: /exhibits/c/
 ---
 
 ## Evolution of Auction Prices over Time
