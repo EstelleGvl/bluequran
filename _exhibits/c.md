@@ -10,13 +10,16 @@ permalink: /exhibits/c/
 XXX
 
 <a href="{{ '/img/Auction_SellingPrices.png' | absolute_url }}">
-  <img src="{{ '/img/Auction_SellingPrices.png' | absolute_url }}" alt="Auction vs Selling Prices" style="zoom:17%;"/>
+  <img src="{{ '/img/Auction_SellingPrices.png' | absolute_url }}" alt="Auction vs Selling Prices" style="zoom:100%;"/>
 </a> 
 
 
 ## Evolution of Auction Prices over Time Adjusted for Inflation
 
 XXX
+<a href="{{ '/img/Auction_SellingPrices_infl.png' | absolute_url }}">
+  <img src="{{ '/img/Auction_SellingPrices_infl.png' | absolute_url }}" alt="Auction vs Selling Prices Adjusted for Inflation" style="zoom:100%;"/>
+</a> 
 
 
 
